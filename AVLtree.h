@@ -6,7 +6,7 @@
  * A field for storing data: data
  * A field for storing left child pointer: left
  * A field for storing right child pointer: right
- * A field for storing balance_height of each node: balance_height
+ * A field for storing height of each node: hight
  * 
  ** A field for storing root of AVL tree: root
  * 
