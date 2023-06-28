@@ -56,7 +56,7 @@ public:
     /* Default constructor for BST class */
     BST() {this->root = nullptr; };
 
-    /* Defaul constructor for root */
+    /* Defaul destructor for BST class */
     ~BST() {makeEmpty(this->root); };
 
     void insert(int x) {this->root = insert(this->root, x); };
